@@ -11,7 +11,6 @@
 Full-stack reservation and booking system with Node.js, Express, MySQL, and Handlebars.  
 - RESTful APIs and AJAX-driven CRUD functionality for reservations, rooms, payments, and employee management, backed by a normalized MySQL schema.
 - Dynamic Handlebars views with real-time room availability and search/filter features, streamlining booking workflows.
-<img width="468" height="70" alt="image" src="https://github.com/user-attachments/assets/88c8bd94-b389-49a2-942f-9f00626e05d0" />
 
 - *(Demo link or screenshots if possible)*  
 
