@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt! <br/><a href="https://github.com/gattm">Programmer</a>, <a href="https://www.linkedin.com/in/matt-gallo-8a4807149/">Computer Science Student</a>
+<h1>Hi, I'm Matt! <br/><a href="https://github.com/gattm">Programmer</a>, <a href="https://www.linkedin.com/in/matt-gallo-8a4807149/">Computer Science Graduate</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
