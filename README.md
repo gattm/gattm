@@ -12,8 +12,6 @@ Full-stack reservation and booking system with Node.js, Express, MySQL, and Hand
 - RESTful APIs and AJAX-driven CRUD functionality for reservations, rooms, payments, and employee management, backed by a normalized MySQL schema.
 - Dynamic Handlebars views with real-time room availability and search/filter features, streamlining booking workflows.
 
-- *(Demo link or screenshots if possible)*  
-
 ---
 
 ### 2. [Weather App (Microservices Architecture)](https://github.com/gattm/weather-app)
@@ -27,8 +25,7 @@ Desktop application using Python + Flask microservices and PyQt GUI.
 ### 3. [Android Scavenger Hunt App](https://github.com/gattm/android-scavenger-hunt)
 Mobile app built with Kotlin and Android SDK.  
 - Location-based scavenger hunt game  
-- Accesses GPS and maps for interactive gameplay  
-- *(Screenshots make this pop!)*  
+- Accesses GPS and maps for interactive gameplay   
 
 ---
 
